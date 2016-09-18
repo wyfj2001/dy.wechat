@@ -1,4 +1,4 @@
-package dy.wechat.message.receive.executor.xml.util;
+package dy.wechat.message.receive.executor.xml.converter;
 
 import java.io.Reader;
 import java.io.Writer;

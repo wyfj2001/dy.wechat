@@ -5,7 +5,7 @@ import java.io.Writer;
 
 import dy.wechat.message.receive.ReceiveMessage;
 import dy.wechat.message.receive.executor.ReceiveMessageExecutor;
-import dy.wechat.message.receive.executor.xml.util.XmlConverter;
+import dy.wechat.message.receive.executor.xml.converter.XmlConverter;
 import dy.wechat.message.receive.xml.ReceiveXmlMessage;
 import dy.wechat.message.reply.ReplyMessage;
 
